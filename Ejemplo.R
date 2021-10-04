@@ -1,0 +1,2 @@
+#Paquetes necesarios
+library(copula)
